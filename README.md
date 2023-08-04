@@ -1,2 +1,2 @@
 # LZPlatformFrontend
-灵智测试平台前端项目
+Lingzhi test platform front-end project
